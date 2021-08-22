@@ -47,7 +47,7 @@ go-algorithm
 
 ## 公众号
 
-![](https://song-oss.oss-cn-beijing.aliyuncs.com/wx/qrcode_for_gh_efed4775ba73_258.jpg)
+![](https://song-oss.oss-cn-beijing.aliyuncs.com/wx/qrcode_for_gh_169729c17b9c_344.jpg)
 
 
 
